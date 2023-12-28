@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "895221342114",
+    "project_id": "venue-jet-bcc76",
+    "storage_bucket": "venue-jet-bcc76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895221342114:android:41dea0213033386071dcfb",
+        "android_client_info": {
+          "package_name": "com.example.venuejet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeZp7eRLOuFXqVvLQLiBRwD1jq2EdmSJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
